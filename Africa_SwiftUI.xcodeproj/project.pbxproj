@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE9A06A32880C4A9004DD9DB /* Africa_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9A06A22880C4A9004DD9DB /* Africa_SwiftUIApp.swift */; };
-		CE9A06A52880C4A9004DD9DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9A06A42880C4A9004DD9DB /* ContentView.swift */; };
 		CE9A06A72880C4AB004DD9DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06A62880C4AB004DD9DB /* Assets.xcassets */; };
 		CE9A06AA2880C4AB004DD9DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06A92880C4AB004DD9DB /* Preview Assets.xcassets */; };
 		CE9A06B32880C529004DD9DB /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9A06B12880C529004DD9DB /* AnimalDetailView.swift */; };
@@ -22,12 +20,11 @@
 		CE9A06C22880C653004DD9DB /* App in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06C12880C653004DD9DB /* App */; };
 		CE9A06C42880C6AD004DD9DB /* Modal in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06C32880C6AD004DD9DB /* Modal */; };
 		CE9A06C62880C6EF004DD9DB /* Extension in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06C52880C6EF004DD9DB /* Extension */; };
+		CE9A06CD2880C839004DD9DB /* Video in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06CC2880C839004DD9DB /* Video */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CE9A069F2880C4A9004DD9DB /* Africa_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE9A06A22880C4A9004DD9DB /* Africa_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Africa_SwiftUIApp.swift; sourceTree = "<group>"; };
-		CE9A06A42880C4A9004DD9DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE9A06A62880C4AB004DD9DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE9A06A92880C4AB004DD9DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE9A06B12880C529004DD9DB /* AnimalDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
@@ -45,6 +42,7 @@
 		CE9A06C92880C760004DD9DB /* covers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = covers.json; sourceTree = "<group>"; };
 		CE9A06CA2880C760004DD9DB /* animals.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = animals.json; sourceTree = "<group>"; };
 		CE9A06CB2880C760004DD9DB /* videos.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = videos.json; sourceTree = "<group>"; };
+		CE9A06CC2880C839004DD9DB /* Video */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Video; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,8 +80,6 @@
 				CE9A06C72880C760004DD9DB /* Data */,
 				CE9A06C12880C653004DD9DB /* App */,
 				CE9A06B02880C4F9004DD9DB /* View */,
-				CE9A06A22880C4A9004DD9DB /* Africa_SwiftUIApp.swift */,
-				CE9A06A42880C4A9004DD9DB /* ContentView.swift */,
 				CE9A06A62880C4AB004DD9DB /* Assets.xcassets */,
 				CE9A06A82880C4AB004DD9DB /* Preview Content */,
 			);
@@ -109,6 +105,7 @@
 				CE9A06B92880C5E4004DD9DB /* ExternalWeblinkView.swift */,
 				CE9A06BB2880C5E4004DD9DB /* HeadingView.swift */,
 				CE9A06BA2880C5E4004DD9DB /* InsetFactView.swift */,
+				CE9A06CC2880C839004DD9DB /* Video */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -182,6 +179,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE9A06CD2880C839004DD9DB /* Video in Resources */,
 				CE9A06C22880C653004DD9DB /* App in Resources */,
 				CE9A06AA2880C4AB004DD9DB /* Preview Assets.xcassets in Resources */,
 				CE9A06C42880C6AD004DD9DB /* Modal in Resources */,
@@ -197,11 +195,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE9A06A52880C4A9004DD9DB /* ContentView.swift in Sources */,
 				CE9A06B72880C569004DD9DB /* InsetMapView.swift in Sources */,
 				CE9A06C02880C5E4004DD9DB /* CoverImageView.swift in Sources */,
 				CE9A06BE2880C5E4004DD9DB /* InsetFactView.swift in Sources */,
-				CE9A06A32880C4A9004DD9DB /* Africa_SwiftUIApp.swift in Sources */,
 				CE9A06BF2880C5E4004DD9DB /* HeadingView.swift in Sources */,
 				CE9A06B32880C529004DD9DB /* AnimalDetailView.swift in Sources */,
 				CE9A06B42880C529004DD9DB /* AnimalListItemView.swift in Sources */,
