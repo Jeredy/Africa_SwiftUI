@@ -79,6 +79,7 @@
 				CE9A06C32880C6AD004DD9DB /* Modal */,
 				CE9A06C72880C760004DD9DB /* Data */,
 				CE9A06C12880C653004DD9DB /* App */,
+				CE9A06CC2880C839004DD9DB /* Video */,
 				CE9A06B02880C4F9004DD9DB /* View */,
 				CE9A06A62880C4AB004DD9DB /* Assets.xcassets */,
 				CE9A06A82880C4AB004DD9DB /* Preview Content */,
@@ -105,7 +106,6 @@
 				CE9A06B92880C5E4004DD9DB /* ExternalWeblinkView.swift */,
 				CE9A06BB2880C5E4004DD9DB /* HeadingView.swift */,
 				CE9A06BA2880C5E4004DD9DB /* InsetFactView.swift */,
-				CE9A06CC2880C839004DD9DB /* Video */,
 			);
 			path = View;
 			sourceTree = "<group>";
