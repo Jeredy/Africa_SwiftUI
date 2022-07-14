@@ -21,6 +21,7 @@
 		CE9A06C02880C5E4004DD9DB /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9A06BC2880C5E4004DD9DB /* CoverImageView.swift */; };
 		CE9A06C22880C653004DD9DB /* App in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06C12880C653004DD9DB /* App */; };
 		CE9A06C42880C6AD004DD9DB /* Modal in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06C32880C6AD004DD9DB /* Modal */; };
+		CE9A06C62880C6EF004DD9DB /* Extension in Resources */ = {isa = PBXBuildFile; fileRef = CE9A06C52880C6EF004DD9DB /* Extension */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		CE9A06BC2880C5E4004DD9DB /* CoverImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoverImageView.swift; sourceTree = "<group>"; };
 		CE9A06C12880C653004DD9DB /* App */ = {isa = PBXFileReference; lastKnownFileType = folder; path = App; sourceTree = "<group>"; };
 		CE9A06C32880C6AD004DD9DB /* Modal */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Modal; sourceTree = "<group>"; };
+		CE9A06C52880C6EF004DD9DB /* Extension */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Extension; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 		CE9A06A12880C4A9004DD9DB /* Africa_SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CE9A06C52880C6EF004DD9DB /* Extension */,
 				CE9A06C32880C6AD004DD9DB /* Modal */,
 				CE9A06C12880C653004DD9DB /* App */,
 				CE9A06B02880C4F9004DD9DB /* View */,
@@ -167,6 +170,7 @@
 				CE9A06AA2880C4AB004DD9DB /* Preview Assets.xcassets in Resources */,
 				CE9A06C42880C6AD004DD9DB /* Modal in Resources */,
 				CE9A06A72880C4AB004DD9DB /* Assets.xcassets in Resources */,
+				CE9A06C62880C6EF004DD9DB /* Extension in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
