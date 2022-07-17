@@ -1,3 +1,4 @@
+
 //
 //  MapView.swift
 //  Africa
@@ -18,3 +19,4 @@ struct MapView_Previews: PreviewProvider {
         MapView()
     }
 }
+

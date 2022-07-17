@@ -1,4 +1,9 @@
-
+//
+//  CoverImageModel.swift
+//  Africa_SwiftUI
+//
+//  Created by André Almeida on 2022-07-16.
+//
 
 import SwiftUI
 

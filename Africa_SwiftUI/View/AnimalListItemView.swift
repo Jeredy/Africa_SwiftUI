@@ -45,3 +45,4 @@ struct AnimalListItemView_Previews: PreviewProvider {
             .padding()
     }
 }
+

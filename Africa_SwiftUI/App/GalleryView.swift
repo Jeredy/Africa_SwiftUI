@@ -1,3 +1,4 @@
+
 //
 //  GalleryView.swift
 //  Africa
@@ -18,3 +19,4 @@ struct GalleryView_Previews: PreviewProvider {
         GalleryView()
     }
 }
+

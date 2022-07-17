@@ -1,8 +1,8 @@
 //
 //  AnimalModel.swift
-//  Africa
+//  Africa_SwiftUI
 //
-//  Created by André Almeida on 2022-07-09.
+//  Created by André Almeida on 2022-07-16.
 //
 
 import SwiftUI
@@ -17,3 +17,5 @@ struct Animal: Codable, Identifiable {
     let gallery: [String]
     let fact: [String]
 }
+
+

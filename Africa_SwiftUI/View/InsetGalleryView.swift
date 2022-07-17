@@ -1,3 +1,4 @@
+
 //
 //  InsetGalleryView.swift
 //  Africa

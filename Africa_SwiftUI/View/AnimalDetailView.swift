@@ -96,3 +96,4 @@ struct AnimalDetailView_Previews: PreviewProvider {
         }
     }
 }
+

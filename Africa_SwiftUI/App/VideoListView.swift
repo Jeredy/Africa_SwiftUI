@@ -1,3 +1,4 @@
+
 //
 //  VideoListView.swift
 //  Africa
@@ -9,7 +10,7 @@ import SwiftUI
 
 struct VideoListView: View {
     var body: some View {
-        Image("buffalo-1")
+        Image("lion-1")
     }
 }
 
@@ -18,3 +19,4 @@ struct VideoListView_Previews: PreviewProvider {
         VideoListView()
     }
 }
+
