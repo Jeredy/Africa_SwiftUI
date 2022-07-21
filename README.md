@@ -2,7 +2,7 @@
 
   A mobile application to visualize wild animals, their characteristics, curiosities and the environment where they live.
   
-  Learned:
+  ## Learned:
   - Geolocation.
   - Grid Layout for iPhone, iPad and iMac (responsible).
   - Reading JSON type data.
