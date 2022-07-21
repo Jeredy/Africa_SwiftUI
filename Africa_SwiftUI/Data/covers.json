@@ -15,5 +15,16 @@
     "id" : 4,
     "name" : "cover-zebra"
   },
+  {
+    "id" : 5,
+    "name" : "cover-buffalo"
+  },
+  {
+    "id" : 6,
+    "name" : "cover-giraffe"
+  },
+  {
+    "id" : 7,
+    "name" : "cover-gorilla"
+  }
 ]
-
