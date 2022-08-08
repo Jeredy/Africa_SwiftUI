@@ -8,11 +8,12 @@
    - SwiftUI;
    
   ## Learned:
-  - Geolocation.
-  - Grid Layout for iPhone, iPad and iMac (responsible).
-  - Reading JSON type data.
-  - Manipulation of data and variables.
-  - Video playback.
+  - Geolocation;
+  - Animation;
+  - Grid Layout for iPhone, iPad and iMac (responsible);
+  - Reading JSON type data;
+  - Manipulation of data and variables;
+  - Video playback;
   - Creation of Stickers for iMessage.
   
   <table>
