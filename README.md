@@ -2,7 +2,7 @@
 
   A mobile application to visualize wild animals, their characteristics, curiosities and the environment where they live.
   
-  ### 🔧 guard let technology = SwiftUI && Firebase else { return }
+  ### 🔧 guard let technology = SwiftUI ?? false else { return }
   
   ## Technologies:
    - SwiftUI;
