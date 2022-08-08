@@ -15,6 +15,7 @@
   - Manipulation of data and variables;
   - Video playback;
   - Creation of Stickers for iMessage.
+  - Links
   
   <table>
     <tr>
